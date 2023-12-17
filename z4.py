@@ -1,5 +1,5 @@
 a= int(input('Введите ваше число- '))
-f = 1
+factorial = 1
 
 while a > 1:
     f = f * a
